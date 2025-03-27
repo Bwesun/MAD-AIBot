@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">usermanagementsystem</string>
+    <string name="title_activity_main">usermanagementsystem</string>
+    <string name="package_name">ionic.usermanagementsystem</string>
+    <string name="custom_url_scheme">ionic.usermanagementsystem</string>
+</resources>
